@@ -7,7 +7,7 @@ A unique Flutter package for creating a polaroid-style carousel with item animat
 ## Features
 
 - Front-to-back and back-to-front item sliding animations using order property.
-- Customizable carousel item rotation and translation direction.
+- Customizable carousel item rotation (x,y,z) and translation direction (left,right,top,bottom).
 - Smooth animation curves for a delightful user experience.
 
 ## Installation
