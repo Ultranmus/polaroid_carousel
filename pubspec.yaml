@@ -3,6 +3,7 @@ description: Polaroid Carousel is a Flutter widget that adds a unique touch to y
 version: 1.0.0
 homepage: https://github.com/Ultranmus/polaroid_carousel.git
 repository: https://github.com/Ultranmus/polaroid_carousel.git
+documentation: https://medium.com/@hashmack007/creating-dynamic-card-carousels-with-polaroid-carousel-in-flutter-702545b933dd
 
 environment:
   sdk: '>=3.1.2 <4.0.0'
@@ -11,6 +12,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
 
 dev_dependencies:
   flutter_test:

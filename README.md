@@ -103,6 +103,9 @@ class Example extends StatelessWidget {
 
 Check out the [Example](example.dart) for different use cases and ideas on how to use the PolaroidCarousel widget in your app.
 
+## Detail Explanation
+You can find the full article on this package on [Medium](https://medium.com/@hashmack007/creating-dynamic-card-carousels-with-polaroid-carousel-in-flutter-702545b933dd).
+
 ## Contributing
 If you find a bug or have a feature request, please open an issue. Contributions are welcome!
 
