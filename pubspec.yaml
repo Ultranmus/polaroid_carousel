@@ -1,5 +1,5 @@
 name: polaroid_carousel
-description: A new Flutter project.
+description: Polaroid Carousel is a Flutter widget that adds a unique touch to your app with a rotating deck of cards. Easily customize the animation order, translation, and rotation for a dynamic visual experience.
 version: 1.0.0
 homepage: https://github.com/Ultranmus/polaroid_carousel.git
 repository: https://github.com/Ultranmus/polaroid_carousel.git
